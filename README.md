@@ -1,4 +1,4 @@
-# app-bershka
+# news
 
 ## Project setup
 ```
